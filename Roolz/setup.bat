@@ -1,5 +1,5 @@
 @echo off
-title Roolz Bot
+title Roolz Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Roolz BOT SETUP AND RUN SCRIPT
+echo    Roolz BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -83,7 +83,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd roolz && node bot
+node MeoMunDep
 pause
 goto MENU
 
