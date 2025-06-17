@@ -1,0 +1,9 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "howManyGames": 1000,
+  "isDoTasks": true,
+  "referralCode": "871O187WS",
+  "delayEachAccount": [1, 81]
+}
